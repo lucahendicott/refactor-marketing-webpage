@@ -7,3 +7,5 @@ I changed out some of the <dev> tags in the HTML for <header> <section> <aside> 
 "search engine optimzation" button was not navigating the page to the proper location. Fixed this by adding an id inside the <div> tag that included class="search-engine-optimization".
   
 I was able to use this semantics guide https://www.w3schools.com/html/html5_semantic_elements.asp to help me figure out the proper tags. 
+
+To access the website in all its glory, follow this link! https://lucahendicott.github.io/refactor-marketing-webpage/
